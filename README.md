@@ -1,4 +1,4 @@
-AI DEVELOPMENT-WORKFOW
+AI Development Workflow
 
 ## 🏥 Overview
 
